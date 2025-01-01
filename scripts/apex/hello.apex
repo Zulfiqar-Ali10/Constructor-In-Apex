@@ -9,12 +9,16 @@
 // System.debug(Con.toString());
 
 ///////////// construction method ///////
-Construction Con = new Construction('20', 'ali', 25.5);
-System.debug(Con.toString());
 
-Construction Con2 = new Construction();
-System.debug(Con2.toString());
+// Construction Con = new Construction('20', 'ali', 25.5);
+// System.debug(Con.toString());
+
+// Construction Con2 = new Construction();
+// System.debug(Con2.toString());
 
 
 ///////////// construction method ///////
 
+//////// assigment ////////
+
+//////// assigment ////////
